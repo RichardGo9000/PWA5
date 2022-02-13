@@ -1,4 +1,4 @@
-https://richardgo9000.github.io/PWA4/
+https://richardgo9000.github.io/PWA5/
 
 Tinkering with a Mozilla MDN PWA example to understand the basics of PWAs/
 
@@ -11,6 +11,8 @@ Tinkering with a Mozilla MDN PWA example to understand the basics of PWAs/
 - [x] served over https
 
 - [x] is technically a PWA
+
+- [ ] separate app.js from index.js and sw.js
 
 References:
 
